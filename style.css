@@ -111,6 +111,7 @@
 
   .contenido h1 {
     font-size: 24px;
+    width: 100%;
   }
 
   .contenido p {
