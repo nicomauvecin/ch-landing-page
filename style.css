@@ -24,6 +24,7 @@
 }
 
 .contenido h1 {
+  width: 75%;
   font-size: 50px;
   margin: 15px 0;
 }
@@ -53,7 +54,7 @@
 
 .btn:hover {
   cursor: pointer;
-  background: #312ac6;
+  background: black;
   color: white;
 }
 
